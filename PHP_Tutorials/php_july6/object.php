@@ -1,6 +1,6 @@
 <?php
 class Student {
-
+this->$sex = male;
 }
 
 $student1 = new Student;
