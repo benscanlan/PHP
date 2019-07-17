@@ -4,7 +4,7 @@ Break up project into assignments.
 
 ## User Authentication
     cd july16
-
+_
       username:realname:iterations:80000:salt:hash
       alpha:Al Phang:80000:0058B9..D970C4:63E75CA4..3AF24935
       alpha:Al Phang:80000:0058B9..D970C4:63E75CA4..3AF24935
@@ -13,10 +13,10 @@ Break up project into assignments.
 ### Updating Hashes
 You can update the hashes behind the scenes when they visit again.
 ### Blueprint
-  https://github.com/AbhishekBiswal/PHP-Facebook-Login
+https://github.com/AbhishekBiswal/PHP-Facebook-Login
 Found: after searching github "php user authentication"
 ### Strategy
-      https://nakedsecurity.sophos.com/2013/11/20/serious-security-how-to-store-your-users-passwords-safely/
+https://nakedsecurity.sophos.com/2013/11/20/serious-security-how-to-store-your-users-passwords-safely/
 1. Use a random salt for each users password hash creation.
 Note: "/dev/urandom on Unix-like systems – you as good as guarantee that each salt is unique"
 2. "key derivation function -> key stretching"
