@@ -12,7 +12,8 @@ Break up project into assignments.
 
 ### Updating Hashes
 You can update the hashes behind the scenes when they visit again.
-
+### Blueprint
+  https://github.com/AbhishekBiswal/PHP-Facebook-Login
 ### Strategy
       https://nakedsecurity.sophos.com/2013/11/20/serious-security-how-to-store-your-users-passwords-safely/
 1. Use a random salt for each users password hash creation.
